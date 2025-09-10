@@ -48,6 +48,8 @@ Retail performance dashboard focusing on sales trends, customer behaviour, and p
 ## 🛠 Tools & Technologies
 
 - Power BI Desktop
+- SQL Server Management Studio (SSMS)
+- SQL (Data pulled from SSMS into Power BI)
 - DAX & Power Query
 - Excel / CSV data sources
 - Data Cleaning and Transformation
